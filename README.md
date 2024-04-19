@@ -1,1 +1,1 @@
-# ECG-GCN
+# SERN-AwGOP
